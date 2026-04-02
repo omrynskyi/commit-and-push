@@ -1,6 +1,7 @@
 ---
 name: commit-and-push
 description: Use when the user wants to commit and push changes to git. Generates a concise commit message from staged diff, runs git commands, retries with alternate message on failure.
+model: haiku
 ---
 
 # Commit and Push
